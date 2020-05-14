@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBNSSwpTy7fd5gSXOsNzSpGWX+ibJhzzBsLkQBx3P8F5hEjBTe0gvKLIpdbjRF8A6SZkZJCL6DTfloQSsa4Q5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Konversi\\Konversi_JsonXmlCsv\\Konversi_JsonXmlCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tyo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

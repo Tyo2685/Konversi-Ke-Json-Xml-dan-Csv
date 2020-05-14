@@ -1,0 +1,15 @@
+D:\Konversi\Konversi_JsonXmlCsv\obj\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.csprojAssemblyReference.cache
+D:\Konversi\Konversi_JsonXmlCsv\obj\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.csproj.CoreCompileInputs.cache
+D:\Konversi\Konversi_JsonXmlCsv\obj\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.AssemblyInfoInputs.cache
+D:\Konversi\Konversi_JsonXmlCsv\obj\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.AssemblyInfo.cs
+D:\Konversi\Konversi_JsonXmlCsv\bin\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.exe
+D:\Konversi\Konversi_JsonXmlCsv\bin\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.deps.json
+D:\Konversi\Konversi_JsonXmlCsv\bin\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.runtimeconfig.json
+D:\Konversi\Konversi_JsonXmlCsv\bin\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.runtimeconfig.dev.json
+D:\Konversi\Konversi_JsonXmlCsv\bin\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.dll
+D:\Konversi\Konversi_JsonXmlCsv\bin\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.pdb
+D:\Konversi\Konversi_JsonXmlCsv\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Konversi\Konversi_JsonXmlCsv\obj\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.csproj.CopyComplete
+D:\Konversi\Konversi_JsonXmlCsv\obj\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.dll
+D:\Konversi\Konversi_JsonXmlCsv\obj\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.pdb
+D:\Konversi\Konversi_JsonXmlCsv\obj\Debug\netcoreapp3.1\Konversi_JsonXmlCsv.genruntimeconfig.cache
